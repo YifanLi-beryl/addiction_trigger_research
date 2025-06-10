@@ -1,1 +1,1 @@
-# addiction_trigger_research
+This research aims to find the addiction trigger and related mechanism behind short video. We collect all length types video data and their comments from Youtube API v3 sorted by hashtags. Using gpt to form the user persona through their behavior history.
